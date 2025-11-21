@@ -17,8 +17,8 @@
 Да над реками мосты.
 
 Предыдущий урок:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/6d176f3f-6d63-4dec-a266-67ae585c4c99 =200x200)
-stolbitsa.com/fistachka/fantazer5<br><br>
+![pexels-mccutcheon-1148998(https://github.com/user-attachments/assets/0d566f66-3780-4248-8238-c5920d25afdb =200x200)
+stolbitsa.com/fistachka/zima<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -38,6 +38,6 @@ Kovala ledyanye
 Da nad rekami mosty.
 
 Previous lesson:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/6d176f3f-6d63-4dec-a266-67ae585c4c99 =200x200)
-stolbitsa.com/fistachka/fantazer5<br><br>
+![pexels-mccutcheon-1148998(https://github.com/user-attachments/assets/0d566f66-3780-4248-8238-c5920d25afdb =200x200)
+stolbitsa.com/fistachka/zima<br><br>
 
