@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zima2</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="Fistachka" repo="zima3"/>
   <readme>
     <ru>15e89d0d627a94087ae810ce1966feb0cb1d50e494d6b49b83ce1dbb81afffbd</ru>
@@ -12,31 +12,32 @@
   <exercise number="1">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>140</bpm>
+    <bpm>60</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>8</tonalities>
     <video name="9t.mp4" size="2245187" type="video/mp4" volume="0.5">c469b8132dd1b095a3ecf198bf47a26046948abae716df429b3a6edda67d3b12</video>
     <notes>
-      <note number="1" values="5" ticks="775" durationTicks="35" ppq="96" velocity="0.71"/>
-      <note number="2" values="5" ticks="822" durationTicks="68" ppq="96" velocity="0.778"/>
-      <note number="3" values="5" ticks="919" durationTicks="96" ppq="96" velocity="0.733"/>
-      <note number="4" values="18" ticks="1014" durationTicks="95" ppq="96" velocity="0.758"/>
-      <note number="5" values="38" ticks="1110" durationTicks="95" ppq="96" velocity="0.712"/>
+      <note number="1" values="5" ticks="23" durationTicks="49" ppq="96" velocity="0.71"/>
+      <note number="2" values="5" ticks="119" durationTicks="49" ppq="96" velocity="0.778"/>
+      <note number="3" values="5" ticks="191" durationTicks="43" ppq="96" velocity="0.733"/>
+      <note number="4" values="18" ticks="288" durationTicks="43" ppq="96" velocity="0.758"/>
+      <note number="5" values="38" ticks="383" durationTicks="43" ppq="96" velocity="0.712"/>
+      <note number="6" values="28,58" ticks="457" durationTicks="50" ppq="96" velocity="0.8"/>
     </notes>
   </exercise>
   <exercise number="2">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>140</bpm>
+    <bpm>60</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>8</tonalities>
     <video name="10t.mp4" size="1757034" type="video/mp4" volume="0.5">65033f080d7eb7a04500eea385dc2e8a19615786c9e9c957f9d3fa239a58296b</video>
     <notes>
-      <note number="1" values="5" ticks="122" durationTicks="35" ppq="96" velocity="0.709"/>
-      <note number="2" values="5" ticks="170" durationTicks="68" ppq="96" velocity="0.772"/>
-      <note number="3" values="5" ticks="266" durationTicks="96" ppq="96" velocity="0.722"/>
-      <note number="4" values="18" ticks="362" durationTicks="96" ppq="96" velocity="0.784"/>
-      <note number="5" values="28" ticks="458" durationTicks="96" ppq="96" velocity="0.722"/>
+      <note number="1" values="5" ticks="96" durationTicks="50" ppq="96" velocity="0.709"/>
+      <note number="2" values="5" ticks="145" durationTicks="120" ppq="96" velocity="0.772"/>
+      <note number="3" values="5" ticks="288" durationTicks="49" ppq="96" velocity="0.722"/>
+      <note number="4" values="18" ticks="358" durationTicks="74" ppq="96" velocity="0.784"/>
+      <note number="5" values="28" ticks="432" durationTicks="81" ppq="96" velocity="0.722"/>
     </notes>
   </exercise>
   <exercise number="3">
