@@ -17,7 +17,7 @@
 А из окон парок синий-синий!
 
 Предыдущий урок:
-![pexels-mccutcheon-1148998(https://github.com/user-attachments/assets/0d566f66-3780-4248-8238-c5920d25afdb =200x200)
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/0d566f66-3780-4248-8238-c5920d25afdb =200x200)
 stolbitsa.com/fistachka/zima<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
@@ -39,6 +39,6 @@ Kak pojdesh' za porog, vsyudu inej,
 A iz okon parok sinij-sinij!
 
 Previous lesson:
-![pexels-mccutcheon-1148998(https://github.com/user-attachments/assets/0d566f66-3780-4248-8238-c5920d25afdb =200x200)
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/0d566f66-3780-4248-8238-c5920d25afdb =200x200)
 stolbitsa.com/fistachka/zima<br><br>
 
