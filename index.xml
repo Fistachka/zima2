@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zima2</repo>
-  <version>v1.0.1</version>
-  <next number="1" owner="Fistachka" repo="zima2"/>
+  <version>v1.0.2</version>
+  <next number="1" owner="Fistachka" repo="zima3"/>
   <readme>
-    <ru>7542705421004979dd48314372bf268f7cf7e38989ab62a754a05fc070cfe7d2</ru>
-    <en>897206dadfed60e98030ec8b2de96a7f8f94546f31a7fab359256115305b2151</en>
+    <ru>53cf04a8f9c4ee9188d98e6ff20b014c322ce8dfa644783560f70412dfeb52b7</ru>
+    <en>49d30e48b6f6b452ee95442e124adb5d465a6e98c8308ca1fd3449ef12b1d254</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
