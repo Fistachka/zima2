@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zima2</repo>
-  <version>v1.0.8</version>
+  <version>v1.0.9</version>
   <next number="1" owner="Fistachka" repo="zima3"/>
   <readme>
     <ru>15e89d0d627a94087ae810ce1966feb0cb1d50e494d6b49b83ce1dbb81afffbd</ru>
@@ -43,17 +43,17 @@
   <exercise number="3">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>140</bpm>
-    <lowestNote>5</lowestNote>
+    <bpm>105</bpm>
+    <lowestNote>6</lowestNote>
     <tonalities>8</tonalities>
     <video name="11t.mp4" size="1878005" type="video/mp4" volume="0.5">872d87a2636fe4a8192a3c961267aab3dabcda77a719a0d8fda0b1f4ae44f2d1</video>
     <notes>
-      <note number="1" values="5" ticks="136" durationTicks="35" ppq="96" velocity="0.709"/>
-      <note number="2" values="5" ticks="184" durationTicks="68" ppq="96" velocity="0.772"/>
-      <note number="3" values="5" ticks="280" durationTicks="96" ppq="96" velocity="0.719"/>
-      <note number="4" values="28" ticks="376" durationTicks="96" ppq="96" velocity="0.764"/>
-      <note number="5" values="48" ticks="472" durationTicks="96" ppq="96" velocity="0.714"/>
-      <note number="6" values="38" ticks="568" durationTicks="96" ppq="96" velocity="0.795"/>
+      <note number="1" values="48" ticks="81" durationTicks="72" ppq="96" velocity="0.812"/>
+      <note number="2" values="48" ticks="180" durationTicks="68" ppq="96" velocity="0.769"/>
+      <note number="3" values="48" ticks="277" durationTicks="143" ppq="96" velocity="0.817"/>
+      <note number="4" values="48" ticks="445" durationTicks="75" ppq="96" velocity="0.812"/>
+      <note number="5" values="48" ticks="542" durationTicks="69" ppq="96" velocity="0.744"/>
+      <note number="6" values="48" ticks="630" durationTicks="96" ppq="96" velocity="0.822"/>
     </notes>
   </exercise>
   <exercise number="4">
